@@ -3,8 +3,11 @@
 Me llamo Jeison Giraldo, soy Full Stack Developer 
 
 * JavaScript
-* React 
+* TypeScript
+* React
+* Nextjs
 * Nestjs
+* Node
 * SQL:  MySQL | Postgres 
 
 
